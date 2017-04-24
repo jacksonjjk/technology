@@ -1,1 +1,6 @@
-自己造轮子
+cart 购物车
+desktop 台式机
+notebook 笔记本
+mobile 手机
+
+以上属于list 商品列表
