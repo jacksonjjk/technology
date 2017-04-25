@@ -14,4 +14,4 @@ npm install
 或者直接双击  start.bat
 
 
-3.打开 localhost:3000
+3.打开 localhost:8080
