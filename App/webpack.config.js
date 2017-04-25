@@ -7,7 +7,7 @@ var ExtractTextPlugin = require('extract-text-webpack-plugin');
 module.exports = {
 	entry: [//唯一入口文件
 		'webpack/hot/only-dev-server',
-		'./index.js'
+		'./src/app.js'
 	],
 	output: {//输出目录
 		path: path.resolve(__dirname, './dist'),//打包后的js文件存放的地方
